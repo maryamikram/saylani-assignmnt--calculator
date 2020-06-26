@@ -1,0 +1,38 @@
+.main{
+    width: 350px;
+    height: 230px;
+    border: 2px solid black;
+    background-color:teal ;
+}
+.input{
+    width: 97%;
+    height: 45px;
+}
+.btn{
+    width: 70px;
+    height: 40px;
+    font-size: 18px;
+    margin: 2px;
+    padding-top: 3px;
+}
+.clearbtn{
+    width: 113px;
+    height: 40px;
+    font-size: 18px;
+    padding-top: 3px;
+    background-color: red;
+}
+.btn2{
+    width: 113px;
+    height: 40px;
+    font-size: 18px;
+    padding-top: 3px;
+    background-color: skyblue;
+}
+.btn3{
+    width: 132px;
+    height: 40px;
+    padding-top: 3px;
+    font-size: 18px;
+    background-color: skyblue;
+}
